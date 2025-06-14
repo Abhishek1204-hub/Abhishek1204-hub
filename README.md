@@ -1,6 +1,5 @@
 - Hi, I’m ABHISHEK TIWARI
 - I’m interested in FORNT-END-DEVELOPMENT
-- I’m currently learning JAVA SCRIPT
 - Looking for a job in front-end- development
 
 <!---
